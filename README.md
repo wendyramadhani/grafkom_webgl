@@ -1,8 +1,8 @@
-## Penugasan Grafika Komputer (D)
+## Penugasan Grafika Komputer (E)
 
 ### Membuat object menggunakan WebGL
 
-### Adnan Abdullah Juan | 5025221162
+### Wendy Gatta Ramadhani | 5025221162
 
 ### Object : Sepatu
 
